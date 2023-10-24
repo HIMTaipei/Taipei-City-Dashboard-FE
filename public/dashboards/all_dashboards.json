@@ -43,7 +43,7 @@
 			"icon": "handshake"
 		},
 		{
-			"name": "測試組件(alan)",
+			"name": "測試組件(alan)(shin)",
 			"index": "testing",
 			"components": ["117", "118", "61", "74"],
 			"icon": "bug_report"
